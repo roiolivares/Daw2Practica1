@@ -6,7 +6,7 @@
  <?php 
     
     echo '<p>Hola Mundo</p>';
-    echo '<p>benvingut</p>';
+    echa '<p>benvingut Roger Oriol</p>';
   
   ?>
  </body>
